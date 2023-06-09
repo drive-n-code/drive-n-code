@@ -3,14 +3,12 @@
 A passionate java and python developer with Full-stack characteristics from Stutensee (near to Karlsruhe, Germany).
 
 
-- 🏢 I’m currently a Software Developer in a DevOps-team working at [DB Systel GmbH](https://www.dbsystel.de/)
+- 🏢 I’m currently CEO of [OSI4](https://osi4.de/), an IT service provider for public transport companies and bus operator. 
 
-- 📜 In the past I was a Software Developer and Technical Product Owner at [1&1 IONOS SE](https://www.ionos.de/)
+- 📜 In the past I was a Software Developer and Technical Product Owner at [1&1 IONOS](https://www.ionos.de/) and [Deutsche Bahn](https://www.deutschebahn.com/) / [DB Systel](https://www.dbsystel.de/).
 
-- 🎯 experienced in Java, Python, PHP, Shell / Linux, WSL, Docker, HTML5/CSS3, UI/UX-Design
+- 🎯 experienced in Java, Python, PHP, Shell / Linux, WSL, Docker / Kubernetes, HTML5 / CSS3, UI / UX-Design
 
-- 🚌 Additionally I'm a part-time bus driver at [Karlsruher Verkehrsverbund](https://www.kvv.de/)...
+- 🚒 ...and a volunteer at [Federal Agency for Technical Relief](https://www.thw.de/)
 
-- 🚒 ...and a volunteer (motorist) at [Federal Agency for Technical Relief](https://www.thw.de/), technical unit for heavy rescue
-
-- 🛠️ In my free time I spend time to restore oldtimer city buses and code some stuff around the big public transportation
+- 🛠️ In my free time I spend time to restore oldtimer city buses and code some stuff around public transportation
